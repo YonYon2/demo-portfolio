@@ -1,4 +1,4 @@
-### Research on NLP models, Pre-trained models, and Finetuning Electra for Gender/Racial Bias
+# Research on NLP models, Pre-trained models, and Finetuning Electra for Gender/Racial Bias
+### (Need to add more later)
 
-As the tile states, this was my research topic for my spring2022 and summer2022 when working with the FAMU-FSU College of Engineering research position.
-This folder contains research posters as powerpoint files that I presented, as well as the presentation video I had to submit.
+This section contains some of the deliverables of when I worked with the FAMU-FSU College of Engineering in a REU program as a research assistant for spring 2022 and summer 2022 semesters.
