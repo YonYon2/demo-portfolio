@@ -1,2 +1,2 @@
 # demo-portfolio
-Just made to have at least one file
+Place for program demos and research projects
