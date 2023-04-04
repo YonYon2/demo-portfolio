@@ -1,2 +1,2 @@
 # demo-portfolio
-showcase of program demos with descriptions that I have made over the years
+Just made to have at least one file
