@@ -1,0 +1,1 @@
+This was the final project for my Programming Language class. We had to learn a new language and showcase some of it, the language I chose was Dyalog APL and made a blackjack program with it. Contains an executable of the game and the presentation documents I submitted.
