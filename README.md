@@ -1,2 +1,2 @@
-# demo-portfolio
-Place for program demos and research projects
+# Technical Projects/Video Game Demos Portfolio
+Place for all my program and research projects
