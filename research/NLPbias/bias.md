@@ -8,4 +8,4 @@ From the spring, a research poster was produced:
 
 And from the summer, a technical paper was created and submitted to see if it was going to be accepted to a conference:
 
-![2024-01-24 (1)](https://github.com/YonYon2/demo-portfolio/assets/70590429/9fd4ed0e-052c-41ed-a833-d8a00ff0ab45)
+![2024-01-24 (1)](https://github.com/YonYon2/demo-portfolio/assets/70590429/a65988c9-4f3f-4ede-8382-075c409ec53f)
