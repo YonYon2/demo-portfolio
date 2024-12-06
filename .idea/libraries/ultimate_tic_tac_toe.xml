@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ultimate_tic_tac_toe">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/games/ultimateTTT/ultimate_tic_tac_toe.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
