@@ -1,8 +1,6 @@
 # Shinky Burgers
-This is a top-down survival shooting game I made with Game Maker Studio 1 when I was in 8th or 9th grade, around when I started learning how to use game maker.
+This is a top-down survival shooting game I made with Game Maker Studio 1 when I was in 8th or 9th grade (around 2015), around when I started learning how to use game maker.
 It is not my first game but in this repo, it is my oldest one i can get a hold of.
-
-![shinky_burgers](https://user-images.githubusercontent.com/70590429/229718012-994e68b8-3db3-410c-8420-c5ea3667c116.gif)
 
 The title was a funny name to me at the time, where the word 'Shinky' refers to the character you play as.
 All the graphics are made by me, while the sound effects were created on a website that lets you create and edit 8 bit sounds.
